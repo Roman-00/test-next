@@ -1,0 +1,11 @@
+@import '@/styles/variables.scss';
+
+.upcoming-slider {
+    position: relative;
+
+    .splide {
+        &__track {
+            padding: 24px 0 !important;
+        }
+    }
+}

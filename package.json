@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@splidejs/react-splide": "^0.7.12",
     "@types/node": "20.0.0",
     "@types/react": "18.2.5",
     "@types/react-dom": "18.2.3",
+    "countup.js": "^2.6.2",
+    "dayjs": "^1.11.7",
     "eslint": "8.39.0",
     "eslint-config-next": "13.4.0",
     "i18next": "^22.4.15",
@@ -19,11 +22,17 @@
     "next-i18next": "^13.2.2",
     "normalize.css": "^8.0.1",
     "react": "18.2.0",
+    "react-countup": "^6.4.2",
     "react-dom": "18.2.0",
     "react-i18next": "^12.2.2",
+    "react-loading-skeleton": "^3.3.1",
     "typescript": "5.0.4"
   },
+  "resolutions": {
+    "react-countup/countup.js": "2.5.0"
+  },
   "devDependencies": {
+    "@svgr/webpack": "^8.0.1",
     "sass": "^1.62.1"
   }
 }

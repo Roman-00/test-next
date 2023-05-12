@@ -1,0 +1,27 @@
+[
+    {
+        "id": "faq",
+        "title": "Частые вопросы",
+        "link": ""
+    },
+    {
+        "id": "attendance-rules",
+        "title": "Правила посещения выставки",
+        "link": ""
+    },
+    {
+        "id": "advice-exhibitors",
+        "title": "Советы по участию в выставке",
+        "link": ""
+    },
+    {
+        "id": "visa-regime",
+        "title": "Правила въезда в РК",
+        "link": ""
+    },
+    {
+        "id": "privacy-policy",
+        "title": "Политика конфиденциальности",
+        "link": ""
+    }
+]

@@ -1,0 +1,24 @@
+@import '@splidejs/react-splide/css';
+
+.splide {
+    &__track {
+        padding: 12px 0;
+    }
+
+    &__arrow {
+        background: $white;
+        box-shadow: 0 2px 5px rgba($black-primary, 0.15);
+
+        svg {
+            fill: $orange-primary;
+        }
+
+        &--prev {
+            left: -3rem !important;
+        }
+
+        &--next {
+            right: -3rem !important;
+        }
+    }
+}

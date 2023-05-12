@@ -1,0 +1,26 @@
+[
+    {
+        "id": "exhibition",
+        "title": "Exhibitions 2022",
+        "maxNumber": 26,
+        "currentNumber": 0
+    },
+    {
+        "id": "sqm",
+        "title": "Sqm",
+        "maxNumber": 46658,
+        "currentNumber": 0
+    },
+    {
+        "id": "exhibitors",
+        "title": "Exhibitors",
+        "maxNumber": 2355,
+        "currentNumber": 0
+    },
+    {
+        "id": "visitors",
+        "title": "Visitors",
+        "maxNumber": 47367,
+        "currentNumber": 0
+    }
+]
